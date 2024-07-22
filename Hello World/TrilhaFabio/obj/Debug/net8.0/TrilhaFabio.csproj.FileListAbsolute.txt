@@ -1,0 +1,14 @@
+C:\Users\Palin\source\repos\TrilhaFabio\TrilhaFabio\bin\Debug\net8.0\TrilhaFabio.exe
+C:\Users\Palin\source\repos\TrilhaFabio\TrilhaFabio\bin\Debug\net8.0\TrilhaFabio.deps.json
+C:\Users\Palin\source\repos\TrilhaFabio\TrilhaFabio\bin\Debug\net8.0\TrilhaFabio.runtimeconfig.json
+C:\Users\Palin\source\repos\TrilhaFabio\TrilhaFabio\bin\Debug\net8.0\TrilhaFabio.dll
+C:\Users\Palin\source\repos\TrilhaFabio\TrilhaFabio\bin\Debug\net8.0\TrilhaFabio.pdb
+C:\Users\Palin\source\repos\TrilhaFabio\TrilhaFabio\obj\Debug\net8.0\TrilhaFabio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Palin\source\repos\TrilhaFabio\TrilhaFabio\obj\Debug\net8.0\TrilhaFabio.AssemblyInfoInputs.cache
+C:\Users\Palin\source\repos\TrilhaFabio\TrilhaFabio\obj\Debug\net8.0\TrilhaFabio.AssemblyInfo.cs
+C:\Users\Palin\source\repos\TrilhaFabio\TrilhaFabio\obj\Debug\net8.0\TrilhaFabio.csproj.CoreCompileInputs.cache
+C:\Users\Palin\source\repos\TrilhaFabio\TrilhaFabio\obj\Debug\net8.0\TrilhaFabio.dll
+C:\Users\Palin\source\repos\TrilhaFabio\TrilhaFabio\obj\Debug\net8.0\refint\TrilhaFabio.dll
+C:\Users\Palin\source\repos\TrilhaFabio\TrilhaFabio\obj\Debug\net8.0\TrilhaFabio.pdb
+C:\Users\Palin\source\repos\TrilhaFabio\TrilhaFabio\obj\Debug\net8.0\TrilhaFabio.genruntimeconfig.cache
+C:\Users\Palin\source\repos\TrilhaFabio\TrilhaFabio\obj\Debug\net8.0\ref\TrilhaFabio.dll
