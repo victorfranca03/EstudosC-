@@ -9,7 +9,7 @@ namespace ContaBancaria
     internal class Conta
     {
         public int Id;
-        public string Titular;
+        public string Titular = string.Empty;
         public int saldo;
         public int senha;
 
@@ -30,3 +30,5 @@ namespace ContaBancaria
 //Criar uma classe que representa uma conta bancária, com um número indicador, titular, saldo e senha.
 //Criar um objeto do tipo Conta, adicionar dados e mostrar as informações titular e saldo no console, utilizando interpolação de strings.
 //Desenvolver um método da classe Conta que exibe suas informações.
+
+//
