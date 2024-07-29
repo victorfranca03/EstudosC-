@@ -8,10 +8,11 @@ namespace ContaBancaria
 {
     internal class Conta
     {
-        public int Id;
-        public string Titular;
-        public int saldo;
-        public int senha;
+        public int Id { get; set; }
+        public string Titular { get; set; }
+        public int saldo {  get; set; }
+
+        public int senha { get; set; }
 
         public void ExibirContaBanco() 
         {
