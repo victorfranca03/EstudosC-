@@ -9,10 +9,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{37C3D4D4-857E-4A95-AEC3-4DDE11D85526}|ScreenSound\\ScreenSound.csproj|c:\\users\\usuario\\desktop\\estudoscsharp\\screensoundobj\\screensound\\screensound\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{37C3D4D4-857E-4A95-AEC3-4DDE11D85526}|ScreenSound\\ScreenSound.csproj|solutionrelative:screensound\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{37C3D4D4-857E-4A95-AEC3-4DDE11D85526}|ScreenSound\\ScreenSound.csproj|c:\\users\\usuario\\desktop\\estudoscsharp\\screensoundobj\\screensound\\screensound\\musica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{37C3D4D4-857E-4A95-AEC3-4DDE11D85526}|ScreenSound\\ScreenSound.csproj|solutionrelative:screensound\\musica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,32 +22,13 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Musica.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\EstudosCSharp\\ScreenSoundObj\\ScreenSound\\ScreenSound\\Musica.cs",
-              "RelativeDocumentMoniker": "ScreenSound\\Musica.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Desktop\\EstudosCSharp\\ScreenSoundObj\\ScreenSound\\ScreenSound\\Musica.cs",
-              "RelativeToolTip": "ScreenSound\\Musica.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAABCAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-22T14:32:37.3Z",
-              "EditorCaption": ""
-            }
-          ]
-        },
-        {
-          "DockedWidth": 24,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Album.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\EstudosCSharp\\ScreenSoundObj\\ScreenSound\\ScreenSound\\Album.cs",
               "RelativeDocumentMoniker": "ScreenSound\\Album.cs",
               "ToolTip": "C:\\Users\\Usuario\\Desktop\\EstudosCSharp\\ScreenSoundObj\\ScreenSound\\ScreenSound\\Album.cs",
               "RelativeToolTip": "ScreenSound\\Album.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-31T02:14:46.501Z",
               "EditorCaption": ""
@@ -64,7 +41,7 @@
               "RelativeDocumentMoniker": "ScreenSound\\Program.cs",
               "ToolTip": "C:\\Users\\Usuario\\Desktop\\EstudosCSharp\\ScreenSoundObj\\ScreenSound\\ScreenSound\\Program.cs",
               "RelativeToolTip": "ScreenSound\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAASAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-22T14:29:46.191Z",
               "EditorCaption": ""

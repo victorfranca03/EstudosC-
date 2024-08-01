@@ -1,18 +1,15 @@
-﻿Musica musica1 =  new Musica();
-musica1.Nome = "November Rain";
-musica1.Artista = "Guns 'N  Roses";
-musica1.Duracao = 273;
-musica1.Dispoivel = true;
-Console.WriteLine(musica1.DescricaoResumida);
+﻿Album albumDoTauz = new Album();
+albumDoTauz.Nome = "Anime";
 
-
+Musica musica1 = new Musica();
+musica1.Nome = "Alucard";
+musica1.Duracao = 213;
 
 Musica musica2 = new Musica();
-musica2.Nome = "StarBoy";
-musica2.Artista = "The Wekend";
-musica2.Duracao = 299;
-musica2.Dispoivel = false;
-Console.WriteLine(musica2.DescricaoResumida);
+musica2.Nome = "Barba Branca";
+musica2.Duracao =223;
 
-musica1.ExibirFichaTecnica();
-musica2.ExibirFichaTecnica();
+albumDoTauz.AdicionarMusica(musica1);
+albumDoTauz.AdicionarMusica(musica2);
+
+albumDoTauz.ExibirMusicasDoAlbum();
