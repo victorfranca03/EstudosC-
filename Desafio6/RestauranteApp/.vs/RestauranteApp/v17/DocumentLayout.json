@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\Desktop\\EstudosCSharp\\Desafio6\\RestauranteApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CBA3711C-933A-408E-B148-898CE8108BFE}|RestauranteApp\\RestauranteApp.csproj|c:\\users\\usuario\\desktop\\estudoscsharp\\desafio6\\restauranteapp\\restauranteapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBA3711C-933A-408E-B148-898CE8108BFE}|RestauranteApp\\RestauranteApp.csproj|solutionrelative:restauranteapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBA3711C-933A-408E-B148-898CE8108BFE}|RestauranteApp\\RestauranteApp.csproj|c:\\users\\usuario\\desktop\\estudoscsharp\\desafio6\\restauranteapp\\restauranteapp\\cardapio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBA3711C-933A-408E-B148-898CE8108BFE}|RestauranteApp\\RestauranteApp.csproj|solutionrelative:restauranteapp\\cardapio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBA3711C-933A-408E-B148-898CE8108BFE}|RestauranteApp\\RestauranteApp.csproj|c:\\users\\usuario\\desktop\\estudoscsharp\\desafio6\\restauranteapp\\restauranteapp\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBA3711C-933A-408E-B148-898CE8108BFE}|RestauranteApp\\RestauranteApp.csproj|solutionrelative:restauranteapp\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBA3711C-933A-408E-B148-898CE8108BFE}|RestauranteApp\\RestauranteApp.csproj|c:\\users\\usuario\\desktop\\estudoscsharp\\desafio6\\restauranteapp\\restauranteapp\\mesa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBA3711C-933A-408E-B148-898CE8108BFE}|RestauranteApp\\RestauranteApp.csproj|solutionrelative:restauranteapp\\mesa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBA3711C-933A-408E-B148-898CE8108BFE}|RestauranteApp\\RestauranteApp.csproj|c:\\users\\usuario\\desktop\\estudoscsharp\\desafio6\\restauranteapp\\restauranteapp\\restaurante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBA3711C-933A-408E-B148-898CE8108BFE}|RestauranteApp\\RestauranteApp.csproj|solutionrelative:restauranteapp\\restaurante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 24,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cardapio.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\EstudosCSharp\\Desafio6\\RestauranteApp\\RestauranteApp\\Cardapio.cs",
+              "RelativeDocumentMoniker": "RestauranteApp\\Cardapio.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\EstudosCSharp\\Desafio6\\RestauranteApp\\RestauranteApp\\Cardapio.cs",
+              "RelativeToolTip": "RestauranteApp\\Cardapio.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAADwvy0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T01:25:35.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Pedido.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\EstudosCSharp\\Desafio6\\RestauranteApp\\RestauranteApp\\Pedido.cs",
+              "RelativeDocumentMoniker": "RestauranteApp\\Pedido.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\EstudosCSharp\\Desafio6\\RestauranteApp\\RestauranteApp\\Pedido.cs",
+              "RelativeToolTip": "RestauranteApp\\Pedido.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAADwvyQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T01:25:09.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Mesa.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\EstudosCSharp\\Desafio6\\RestauranteApp\\RestauranteApp\\Mesa.cs",
+              "RelativeDocumentMoniker": "RestauranteApp\\Mesa.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\EstudosCSharp\\Desafio6\\RestauranteApp\\RestauranteApp\\Mesa.cs",
+              "RelativeToolTip": "RestauranteApp\\Mesa.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAADwvx0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T01:24:50.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Restaurante.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\EstudosCSharp\\Desafio6\\RestauranteApp\\RestauranteApp\\Restaurante.cs",
+              "RelativeDocumentMoniker": "RestauranteApp\\Restaurante.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\EstudosCSharp\\Desafio6\\RestauranteApp\\RestauranteApp\\Restaurante.cs",
+              "RelativeToolTip": "RestauranteApp\\Restaurante.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAADwvycAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T01:24:33.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\EstudosCSharp\\Desafio6\\RestauranteApp\\RestauranteApp\\Program.cs",
+              "RelativeDocumentMoniker": "RestauranteApp\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\EstudosCSharp\\Desafio6\\RestauranteApp\\RestauranteApp\\Program.cs",
+              "RelativeToolTip": "RestauranteApp\\Program.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAADwvyIAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T01:24:04.423Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

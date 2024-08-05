@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\source\\repos\\Conta\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CBB329CC-6941-4BAC-93D9-D15F0DE7A416}|Conta\\Conta.csproj|c:\\users\\usuario\\source\\repos\\conta\\conta\\conta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBB329CC-6941-4BAC-93D9-D15F0DE7A416}|Conta\\Conta.csproj|solutionrelative:conta\\conta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBB329CC-6941-4BAC-93D9-D15F0DE7A416}|Conta\\Conta.csproj|c:\\users\\usuario\\source\\repos\\conta\\conta\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBB329CC-6941-4BAC-93D9-D15F0DE7A416}|Conta\\Conta.csproj|solutionrelative:conta\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 24,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Conta.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Conta\\Conta\\Conta.cs",
+              "RelativeDocumentMoniker": "Conta\\Conta.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Conta\\Conta\\Conta.cs",
+              "RelativeToolTip": "Conta\\Conta.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAswB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T01:09:23.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Conta\\Conta\\Program.cs",
+              "RelativeDocumentMoniker": "Conta\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Conta\\Conta\\Program.cs",
+              "RelativeToolTip": "Conta\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T01:07:39.631Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+C:\Users\Usuario\Desktop\EstudosCSharp\Desafio5\Escola\Escola\bin\Debug\net8.0\Escola.exe
+C:\Users\Usuario\Desktop\EstudosCSharp\Desafio5\Escola\Escola\bin\Debug\net8.0\Escola.deps.json
+C:\Users\Usuario\Desktop\EstudosCSharp\Desafio5\Escola\Escola\bin\Debug\net8.0\Escola.runtimeconfig.json
+C:\Users\Usuario\Desktop\EstudosCSharp\Desafio5\Escola\Escola\bin\Debug\net8.0\Escola.dll
+C:\Users\Usuario\Desktop\EstudosCSharp\Desafio5\Escola\Escola\bin\Debug\net8.0\Escola.pdb
+C:\Users\Usuario\Desktop\EstudosCSharp\Desafio5\Escola\Escola\obj\Debug\net8.0\Escola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\EstudosCSharp\Desafio5\Escola\Escola\obj\Debug\net8.0\Escola.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\EstudosCSharp\Desafio5\Escola\Escola\obj\Debug\net8.0\Escola.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\EstudosCSharp\Desafio5\Escola\Escola\obj\Debug\net8.0\Escola.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\EstudosCSharp\Desafio5\Escola\Escola\obj\Debug\net8.0\Escola.sourcelink.json
+C:\Users\Usuario\Desktop\EstudosCSharp\Desafio5\Escola\Escola\obj\Debug\net8.0\Escola.dll
+C:\Users\Usuario\Desktop\EstudosCSharp\Desafio5\Escola\Escola\obj\Debug\net8.0\refint\Escola.dll
+C:\Users\Usuario\Desktop\EstudosCSharp\Desafio5\Escola\Escola\obj\Debug\net8.0\Escola.pdb
+C:\Users\Usuario\Desktop\EstudosCSharp\Desafio5\Escola\Escola\obj\Debug\net8.0\Escola.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\EstudosCSharp\Desafio5\Escola\Escola\obj\Debug\net8.0\ref\Escola.dll

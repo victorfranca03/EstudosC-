@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\Desktop\\EstudosCSharp\\Desafio4\\Estoque\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1C27D140-53A2-4B5E-81F1-EEAA765CC7AC}|Estoque\\Estoque.csproj|c:\\users\\usuario\\desktop\\estudoscsharp\\desafio4\\estoque\\estoque\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C27D140-53A2-4B5E-81F1-EEAA765CC7AC}|Estoque\\Estoque.csproj|solutionrelative:estoque\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C27D140-53A2-4B5E-81F1-EEAA765CC7AC}|Estoque\\Estoque.csproj|c:\\users\\usuario\\desktop\\estudoscsharp\\desafio4\\estoque\\estoque\\estqoue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C27D140-53A2-4B5E-81F1-EEAA765CC7AC}|Estoque\\Estoque.csproj|solutionrelative:estoque\\estqoue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C27D140-53A2-4B5E-81F1-EEAA765CC7AC}|Estoque\\Estoque.csproj|c:\\users\\usuario\\desktop\\estudoscsharp\\desafio4\\estoque\\estoque\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C27D140-53A2-4B5E-81F1-EEAA765CC7AC}|Estoque\\Estoque.csproj|solutionrelative:estoque\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 24,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\EstudosCSharp\\Desafio4\\Estoque\\Estoque\\Program.cs",
+              "RelativeDocumentMoniker": "Estoque\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\EstudosCSharp\\Desafio4\\Estoque\\Estoque\\Program.cs",
+              "RelativeToolTip": "Estoque\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T01:17:33.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Estqoue.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\EstudosCSharp\\Desafio4\\Estoque\\Estoque\\Estqoue.cs",
+              "RelativeDocumentMoniker": "Estoque\\Estqoue.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\EstudosCSharp\\Desafio4\\Estoque\\Estoque\\Estqoue.cs",
+              "RelativeToolTip": "Estoque\\Estqoue.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAADwvxwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T01:17:25.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\EstudosCSharp\\Desafio4\\Estoque\\Estoque\\Produto.cs",
+              "RelativeDocumentMoniker": "Estoque\\Produto.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\EstudosCSharp\\Desafio4\\Estoque\\Estoque\\Produto.cs",
+              "RelativeToolTip": "Estoque\\Produto.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T01:16:56.231Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

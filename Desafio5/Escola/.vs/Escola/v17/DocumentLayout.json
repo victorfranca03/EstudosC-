@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\Desktop\\EstudosCSharp\\Desafio5\\Escola\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5BB3C8DB-EA3C-4EB0-A7E8-1C5D0E15E0C2}|Escola\\Escola.csproj|c:\\users\\usuario\\desktop\\estudoscsharp\\desafio5\\escola\\escola\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BB3C8DB-EA3C-4EB0-A7E8-1C5D0E15E0C2}|Escola\\Escola.csproj|solutionrelative:escola\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BB3C8DB-EA3C-4EB0-A7E8-1C5D0E15E0C2}|Escola\\Escola.csproj|c:\\users\\usuario\\desktop\\estudoscsharp\\desafio5\\escola\\escola\\disciplina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BB3C8DB-EA3C-4EB0-A7E8-1C5D0E15E0C2}|Escola\\Escola.csproj|solutionrelative:escola\\disciplina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BB3C8DB-EA3C-4EB0-A7E8-1C5D0E15E0C2}|Escola\\Escola.csproj|c:\\users\\usuario\\desktop\\estudoscsharp\\desafio5\\escola\\escola\\professor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BB3C8DB-EA3C-4EB0-A7E8-1C5D0E15E0C2}|Escola\\Escola.csproj|solutionrelative:escola\\professor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BB3C8DB-EA3C-4EB0-A7E8-1C5D0E15E0C2}|Escola\\Escola.csproj|c:\\users\\usuario\\desktop\\estudoscsharp\\desafio5\\escola\\escola\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BB3C8DB-EA3C-4EB0-A7E8-1C5D0E15E0C2}|Escola\\Escola.csproj|solutionrelative:escola\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 24,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Disciplina.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\EstudosCSharp\\Desafio5\\Escola\\Escola\\Disciplina.cs",
+              "RelativeDocumentMoniker": "Escola\\Disciplina.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\EstudosCSharp\\Desafio5\\Escola\\Escola\\Disciplina.cs",
+              "RelativeToolTip": "Escola\\Disciplina.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAADwvyQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T01:21:16.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Professor.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\EstudosCSharp\\Desafio5\\Escola\\Escola\\Professor.cs",
+              "RelativeDocumentMoniker": "Escola\\Professor.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\EstudosCSharp\\Desafio5\\Escola\\Escola\\Professor.cs",
+              "RelativeToolTip": "Escola\\Professor.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAADwvxAAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T01:20:43.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Aluno.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\EstudosCSharp\\Desafio5\\Escola\\Escola\\Aluno.cs",
+              "RelativeDocumentMoniker": "Escola\\Aluno.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\EstudosCSharp\\Desafio5\\Escola\\Escola\\Aluno.cs",
+              "RelativeToolTip": "Escola\\Aluno.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAUwB8AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T01:20:27.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\EstudosCSharp\\Desafio5\\Escola\\Escola\\Program.cs",
+              "RelativeDocumentMoniker": "Escola\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\EstudosCSharp\\Desafio5\\Escola\\Escola\\Program.cs",
+              "RelativeToolTip": "Escola\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T01:20:07.681Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
