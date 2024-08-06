@@ -12,4 +12,7 @@ musica2.Duracao =223;
 albumDoTauz.AdicionarMusica(musica1);
 albumDoTauz.AdicionarMusica(musica2);
 
-albumDoTauz.ExibirMusicasDoAlbum();
+Banda playerTauz = new Banda();
+playerTauz.Nome = "playerTauz";
+playerTauz.AdicionarAlbum(albumDoTauz);
+playerTauz.ExibirDiscografia();
