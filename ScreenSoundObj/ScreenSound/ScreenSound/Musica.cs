@@ -4,8 +4,12 @@
 //DISPONIVEL
 class Musica
 {
+    public Musica(Banda artista) 
+    {
+        Artista = artista;
+    }
    public string Nome {  get; set; }
-   public string Artista { get; set; }
+   public string Artista { get;; }
    public int Duracao { get; set; }
    public bool Dispoivel {  get; set; } // set(escreve) // get(lê)
     public string DescricaoResumida => $"A musica {Nome} pertence á banda {Artista}";
